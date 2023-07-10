@@ -1,0 +1,44 @@
+{
+    "coord": {
+      "lon": -75.5299,
+      "lat": 40.6801
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 25.69,
+      "feels_like": 26.48,
+      "temp_min": 23.16,
+      "temp_max": 27.12,
+      "pressure": 1006,
+      "humidity": 83
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.57,
+      "deg": 90
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1688915398,
+    "sys": {
+      "type": 2,
+      "id": 2002445,
+      "country": "US",
+      "sunrise": 1688895549,
+      "sunset": 1688949303
+    },
+    "timezone": -14400,
+    "id": 5188351,
+    "name": "Egypt",
+    "cod": 200
+  }
+  
