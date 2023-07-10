@@ -50,7 +50,7 @@ const App= ()=>{
         <div className="searchBar">
           <input 
             type="search" 
-            placeholder='Search By Name'
+            placeholder='Enter Country Name'
             onChange={InputQ}
             onKeyPress={request}
             />
